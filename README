@@ -9,8 +9,8 @@ Software used :
 
 1. Andorid emulator -> 
         "platformName": "Android",
-        "appium:platformVersion": "14",
-        "appium:deviceName": "Pixel_3a",
+        "platformVersion": "14",
+        "deviceName": "Pixel_3a",
 
 2. Ui Automator ->
         UIAutomator2 for appium
