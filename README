@@ -1,0 +1,37 @@
+Hello, welcome to my first project for automating android application. 
+
+I have used a build of the application that I got via andorid studio. I will attach the same in the email.
+
+The main file running here is `compflowdlp.js` present inside the `tests/specs` folder.
+Other simillar files are just practice code.
+
+Software used :
+
+1. Andorid emulator -> 
+        "platformName": "Android",
+        "appium:platformVersion": "14",
+        "appium:deviceName": "Pixel_3a",
+
+2. Ui Automator ->
+        UIAutomator2 for appium
+
+3. Webdriver IO + mocha -> version(8.32.3)
+        WebdriverIO is a next-gen browser and Node.js automated mobile testing framework. It allows you to customize any application written with modern web frameworks for mobile devices or browsers, such as React, Angular, Polymeror, and Vue.js. 
+
+4. Appium -> verion(2.5.1)
+        Appium is a mobile automation testing tool which is used to automate mobile applications on different mobile operating systems such as Android and iOS. It is an open source tool which can be used to automate the testing of different mobile device applications such as native, WAP and hybrid application.
+
+5. Appium Doctor -> version(1.16.2)
+        Attempts to diagnose and fix common Node, iOS and Android configuration issues before starting Appium.
+
+6. Node.js -> version(v21.6.1)
+        Node.js is a cross-platform, open-source JavaScript runtime environment that can run on Windows, Linux, Unix, macOS, and more. Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
+
+7. Java jdk -> version(11.0.22)
+        The Java Development Kit is a distribution of Java technology by Oracle Corporation. It implements the Java Language Specification and the Java Virtual Machine Specification and provides the Standard Edition of the Java Application Programming Interface.
+
+PS. ~
+
+The given app is itself unstable which made automating it challenging. I will list the observations I found in the manual test suite.
+
+
