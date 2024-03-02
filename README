@@ -5,6 +5,8 @@ I have used a build of the application that I got via andorid studio. I will att
 The main file running here is `compflowdlp.js` present inside the `tests/specs` folder.
 Other simillar files are just practice code.
 
+Steps to execute -> Clone the repo -> run $ npm i -> run $ npx wdio wdio.conf.js
+
 Software used :
 
 1. Andorid emulator -> 
